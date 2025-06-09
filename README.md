@@ -39,4 +39,5 @@ $ ghp-import -n -p -f docs/book/_build/html
 
 - So this command pushes your built book to the gh-pages branch on GitHub.
 
+- Jupyter book: https://ai-ml-next-steps.github.io/mymathlib/book/intro.html
 
