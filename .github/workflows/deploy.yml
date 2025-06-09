@@ -34,3 +34,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: docs/book/_build/html
           publish_branch: gh-pages
+          destination_dir: book  # 👈 this keeps everything inside /book/
